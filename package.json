@@ -1,0 +1,26 @@
+    {
+    "name": "am",
+    "version": "0.0.1",
+    "description": "Xinix Ark Management",
+    "author": {
+        "name": "Jafar Shadiq",
+        "email": "jafar@xinix.co.id"
+    },
+    "contributors": [
+        {
+            "name": "Farid Hidayat",
+            "email": "e.faridhidayat@gmail.com"
+        }
+    ],
+    "dependencies": {
+        "commander": "1.1.1",
+        "mkdirp": "0.3.4",
+        "async": ">=0.1.22"
+    },
+    "devDependencies": {
+        "vows": "0.7.x"
+    },
+    "engines": {
+        "node": ">=0.8.x"
+    }
+}
